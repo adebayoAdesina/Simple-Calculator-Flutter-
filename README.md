@@ -1,4 +1,4 @@
-# ecommerce
+# Calculator
 
 A new Flutter project.
 
